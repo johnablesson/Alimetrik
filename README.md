@@ -19,11 +19,11 @@ There are 2 API endpoints in the swagger documentation.
 
 This endpoint will create a payment plan for a given Purhcase amount, Purchase Date and number of installments.
 
-###Request Url
+### Request Url
 
 POST https://localhost:44384/api/v1/paymentplan
 
-###Request Body
+### Request Body
 
 {
   "purhcaseDate": "2022-10-25T11:01:15.749Z",
@@ -34,9 +34,9 @@ POST https://localhost:44384/api/v1/paymentplan
 
 ## Get Payment Plan
 
-###Request
-
 This endpoint will return Payment Plan details for a given Payment Plan Id.
+
+### Request Url
 
 GET api/v1/paymentplan/id/3fa85f64-5717-4562-b3fc-2c963f66afa6
 
