@@ -1,0 +1,12 @@
+﻿global using Abstractions.Persistence;
+global using ApiContract;
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Linq;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using Zip.InstallmentsService.Commands;
+global using Zip.InstallmentsService.Extensions;
+global using Microsoft.EntityFrameworkCore;
+global using System;
