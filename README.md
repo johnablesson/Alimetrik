@@ -13,7 +13,9 @@ Alimetrik coding challenge
 - On the start of the API, you will be provided with a swagger page with 2 endpoints
 
 # Swagger Documentation
+
 The swager documentation link is https://localhost:44384/swagger
+
 There are 2 API endpoints in the swagger documentation.
 
 ## Create Payment Plan
